@@ -1,5 +1,7 @@
 # The NutPub
 
+> **Status (4 Oct 2026):** I couldn't finish this in time for judging at btc++ Berlin without dropping its best features, so I withdrew the entry and decided to finish it properly when I next had the time. That's happening now as **NutPub v1.0** in [rajesh-taylor/nutpub](https://github.com/rajesh-taylor/nutpub), and, fingers crossed, it gets demoed on the Cashu dev call on Thu 29 Oct 2026. This repo stays as it was at the end of the hackathon.
+
 **A pub where the tickets, the bar and the band all take ecash. Everyone gets paid, and nobody learns who you are.**
 
 Built at btc++ Berlin 2026 (Payments Edition, "money in movement"). Pay-per-10-seconds music in Cashu ecash, and a finale that pays the artist if the room hits the goal, or sends every sat home by itself.
